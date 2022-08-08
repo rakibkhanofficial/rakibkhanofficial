@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakib Khan</h1>
-<h3 align="center">A passionate Web developer, App Developer, Software engineer. from Bangladesh</h3>
+<h3 align="center">A passionate Web developer, App Developer, Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib00111&label=Profile%20views&color=0e75b6&style=flat" alt="rakib00111" /> </p>
 
