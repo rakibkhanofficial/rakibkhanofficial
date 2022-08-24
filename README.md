@@ -52,4 +52,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib00111&show_icons=true&locale=en" alt="rakib00111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib00111&" alt="rakib00111" /></p>
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/country_provider/count.svg" alt ="Loading">
 
