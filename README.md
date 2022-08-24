@@ -54,5 +54,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib00111&" alt="rakib00111" /></p>
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/country_provider/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/Rakib00111/count.svg" alt ="Loading">
 
