@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Web developer, App Developer, Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib00111&label=Profile%20views&color=0e75b6&style=flat" alt="rakib00111" /> </p>
+[![wakatime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@1be6b642-1a9e-4f43-8350-58bc10bf642c)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib00111" alt="rakib00111" /></a> </p>
 
