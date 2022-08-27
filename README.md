@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Web developer, App Developer, Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib00111&label=Profile%20views&color=0e75b6&style=flat" alt="rakib00111" /> </p>
-[![wakatime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@1be6b642-1a9e-4f43-8350-58bc10bf642c)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib00111" alt="rakib00111" /></a> </p>
 
@@ -47,7 +46,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khanrakib218"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khanrakib218" /></a><a href="https://ko-fi.com/B0B3EA66L"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="B0B3EA66L" /></a></p><br><br>
 
-[![wakatime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@1be6b642-1a9e-4f43-8350-58bc10bf642c)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib00111&show_icons=true&locale=en&layout=compact" alt="rakib00111" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib00111&show_icons=true&locale=en" alt="rakib00111" /></p>
