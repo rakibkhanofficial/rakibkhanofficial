@@ -45,6 +45,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khanrakib218"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khanrakib218" /></a><a href="https://ko-fi.com/B0B3EA66L"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="B0B3EA66L" /></a></p><br><br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@saadh393&layout=compact)]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib00111&show_icons=true&locale=en&layout=compact" alt="rakib00111" /></p>
 
