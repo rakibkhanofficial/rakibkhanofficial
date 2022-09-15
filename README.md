@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/rakibkhanoffica" target="blank"><img src="https://img.shields.io/twitter/follow/rakibkhanoffica?logo=twitter&style=for-the-badge" alt="rakibkhanoffica" /></a> </p>
 
-- 🔭 I’m currently working on **[Web Development,App Development]**
+- 🔭 I’m currently working on **[Application Development, Web Development, Software Testing]**
 
-- 🌱 I’m currently learning **[Flutter, React,Php]**
+- 🌱 I’m currently learning **[Flutter, Dart, React, MongoDB, NodeJs, Php]**
 
-- 👯 I’m looking to collaborate on **[Problem solving(C++)]**
+- 👯 I’m looking to collaborate on **[Flutter Development Project]**
 
 - 🤝 I’m looking for help with **[learning Flutter Application Development]**
 
-- 👨‍💻 All of my projects are available at [https://rakib00111.github.io/portfolio/](https://rakib00111.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://rakibkhanofficial.github.io/](https://rakibkhanofficial.github.io/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rakibkhan218/](https://www.linkedin.com/in/rakibkhan218/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/rakibkhanofficial](https://www.linkedin.com/in/rakibkhanofficial/)
 
 - 💬 Ask me about **[Flutter,dart,Software Testing,QA]**
 
 - 📫 How to reach me **khanrakib218@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l0VmtXCmjDI3IBODoY4FGpecct46dnkh/view?usp=sharing](https://drive.google.com/file/d/1l0VmtXCmjDI3IBODoY4FGpecct46dnkh/view?usp=sharing)
+- 📄 Know about my experiences:: checkout My CV ["https://drive.google.com/file/d/1gzz7YeEIogioNEkvB7-jLnCwIoy0PpMz/view?usp=sharing"])
 
 - ⚡ Fun fact **is I still see Cartoon whenever I got free time**
 
