@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib00111" alt="rakib00111" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rakibkhan001" target="blank"><img src="https://img.shields.io/twitter/follow/rakibkhan001?logo=twitter&style=for-the-badge" alt="rakibkhan001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rakibkhanoffica" target="blank"><img src="https://img.shields.io/twitter/follow/rakibkhanoffica?logo=twitter&style=for-the-badge" alt="rakibkhanoffica" /></a> </p>
 
 - 🔭 I’m currently working on **[Web Development,App Development]**
 
