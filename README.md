@@ -51,7 +51,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&locale=en" alt="rakibkhanofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&" alt="rakibkhanofficial" /></p>
-## Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading">
 
