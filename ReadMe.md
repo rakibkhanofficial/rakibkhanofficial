@@ -1,6 +1,11 @@
 
 # 💫 About Me:
 Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE From Lovely Professional University, Currently Working On Android App Development with Java, XML, Firebase. Also learning Flutter. I have Experienced on Software Testing Also.
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Android App Developer;Software Tester;Quick+and+a+Self+Learner&color=teal&center=true" />
+</div>
+
 ## Visitors Count:
 <img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading"> |
 
