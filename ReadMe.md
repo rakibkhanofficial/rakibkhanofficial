@@ -1,8 +1,8 @@
-## 💫 About Me:
-Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE <br>From Lovely Professional University, Currently Working On <br>Android App Development with Java, XML, Firebase. Also <br>learning Flutter. I have Experienced on Software Testing Also.
-
 ## Visitors Count:
 <img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading">
+
+## 💫 About Me:
+Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE <br>From Lovely Professional University, Currently Working On <br>Android App Development with Java, XML, Firebase. Also <br>learning Flutter. I have Experienced on Software Testing Also.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakibkhanofficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -18,9 +18,6 @@ Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE <br>From Lovely Prof
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rakibkhanofficial&icon=2&color=3)](https://visitcount.itsvg.in)
