@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE <br>From Lovely Professional University, Currently Working On <br>Android App Development with Java, XML, Firebase. Also <br>learning Flutter. I have Experienced on Software Testing Also.
 ## Visitors Count:
-<img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading"> |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakibkhanofficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -14,7 +14,8 @@ Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE <br>From Lovely Prof
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&theme=gruvbox&hide_border=false) |
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
+![Github Stars](https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
