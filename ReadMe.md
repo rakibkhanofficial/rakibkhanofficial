@@ -20,7 +20,7 @@ Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE <br>From Lovely Prof
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakibkhanofficial&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rakibkhanofficial&label=Profile%20Views&color=2&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/khanrakib218) 
