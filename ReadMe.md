@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My Name is Rakib Khan, Recently graduated in B.Tech CSE From Lovely Professional University, Currently Working On Android App Development with Java, XML, Firebase. Also learning Flutter. I have Experienced on Software Testing Also.
+Hi, My Name is Rakib Khan, graduated in B.Tech CSE From Lovely Professional University, Currently Working As a Software Engineer ( Intern ) At Akij Venture Ltd.
 
 ## Visitors Count:
 <img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading"> |
