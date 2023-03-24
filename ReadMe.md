@@ -17,6 +17,7 @@ Hi, My Name is Rakib Khan, graduated in B.Tech CSE From Lovely Professional Univ
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&theme=gruvbox&hide_border=false) |
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+[![Rakib Khan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakibkhanofficial&theme=tokyonight&hide_border=true)](https://rakibkhanofficial.github.io/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
