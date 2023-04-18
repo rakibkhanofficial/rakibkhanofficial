@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Junior Full-Stack Software Engineer, I am responsible for developing and implementing software applications that meet business needs. I possess a range of technical skills, including proficiency in front-end and back-end development, database management, and server configuration. I work with a variety of programming languages, frameworks, and libraries, and am able to design and develop user interfaces, server-side applications, and APIs. I am a problem solver with strong attention to detail and the ability to work collaboratively with others to achieve project goals.
+As a Junior Software Engineer, I am responsible for developing and implementing software applications that meet business needs. I possess a range of technical skills, including proficiency in front-end and back-end development, database management, and server configuration. I work with a variety of programming languages, frameworks, and libraries, and am able to design and develop user interfaces, server-side applications, and APIs. I am a problem solver with strong attention to detail and the ability to work collaboratively with others to achieve project goals.
 
 ## Visitors Count:
 <img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading"> |
