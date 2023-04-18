@@ -48,9 +48,9 @@ As a Junior Full-Stack Software Engineer, I am responsible for developing and im
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
 </div>
-
+###
 <img src="https://raw.githubusercontent.com/rakib/rakib/blob/output/snake.svg" alt="Snake animation" />
-
+###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&theme=gruvbox&hide_border=false) |
