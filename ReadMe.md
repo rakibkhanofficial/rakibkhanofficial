@@ -20,8 +20,10 @@ As a Software Engineer, I am responsible for developing and implementing softwar
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rakibkhanofficial\&layout=compact" alt="walkatatime"/></td>
   </tr>
 </table> 
+
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=rakibkhanofficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🌐 Socials:
 ####
 <div align="left">
