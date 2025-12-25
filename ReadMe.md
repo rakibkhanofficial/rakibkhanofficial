@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rakibkhan.vercel.app-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rakibkhan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rakibkhanofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibkhanofficial/)
-[![Visitors](https://profile-counter.glitch.me/rakibkhanofficial/count.svg)](https://github.com/rakibkhanofficial)
+[![Visitors]([https://profile-counter.glitch.me/rakibkhanofficial/count.svg)](https://github.com/rakibkhanofficial](https://komarev.com/ghpvc/?username=rakibkhanofficial&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS))
 [![WakaTime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@1be6b642-1a9e-4f43-8350-58bc10bf642c)
 
 </div>
