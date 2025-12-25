@@ -51,35 +51,44 @@ const rakibKhan = {
 
 ## 📊 GitHub Analytics & Code Quality
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📈 Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&card_width=400)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&theme=radical&hide_border=true&card_width=400)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rakibkhanofficial&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 💻 Code Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=400)
-
-### ⏱️ Coding Activity
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=rakibkhanofficial&theme=radical&hide_border=true&layout=compact&card_width=400)
-
-</td>
-</tr>
-</table>
+### 💻 Language Proficiency
 
 <div align="center">
 
-### 🔥 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakibkhanofficial&theme=react-dark&hide_border=true&area=true)](https://github.com/rakibkhanofficial)
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-92%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-90%25-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-92%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-82%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-88%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### 🔥 Contribution Activity
+
+<div align="center">
+
+[![Rakib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakibkhanofficial&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/rakibkhanofficial)
+
+</div>
 
 ### 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=rakibkhanofficial&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rakibkhanofficial&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -150,13 +159,25 @@ Premium car rental platform
 </td>
 <td width="50%">
 
-### 🏢 Corporate Portfolios
-6+ enterprise websites delivered
+### 🥽 [AR Product Showcase](https://ar-app-five.vercel.app/)
+WebXR/AR 3D product visualization platform
 
-[Akij Venture](https://www.akijventure.com/) • [Akij Food](https://www.akijfood.com/) • [Akij Bicycle](https://www.akijbicycle.com/)  
-[Akij Electric](https://www.akijee.com/) • [AM Publication](https://www.ampublication.com/) • [NeosCoder](https://www.neoscoder.com/)
+**Stack:** React • Three.js • WebXR • GLTF  
+**Features:** 3D viewer • AR compatibility • Interactive animations
 
-**Stack:** Next.js • TypeScript • Tailwind • SEO
+**Impact:** iOS/Android AR • Real-time 3D preview
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🏢 Corporate Portfolio Websites
+
+[Akij Venture](https://www.akijventure.com/) • [Akij Food & Beverage](https://www.akijfood.com/) • [Akij Bicycle & Engineering](https://www.akijbicycle.com/) • [Akij Electrical & Electronics](https://www.akijee.com/) • [Amanatul Monowara Publication](https://www.ampublication.com/) • [NeosCoder](https://www.neoscoder.com/)
+
+**Stack:** Next.js • TypeScript • Tailwind CSS • SEO Optimized  
+**Features:** Responsive design • Fast loading • Modern UI/UX • CMS integration
 
 </td>
 </tr>
@@ -174,7 +195,7 @@ Premium car rental platform
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 **Backend:** 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
