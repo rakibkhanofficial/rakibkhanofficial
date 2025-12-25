@@ -53,106 +53,36 @@ const rakibKhan = {
 
 <div align="center">
 
-### ⚡ GitHub Stats & Activity
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&theme=radical&hide_border=true&currStreakLabel=5B4699" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakibkhanofficial&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rakibkhanofficial&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
 
 </div>
 
-### 💻 Language Proficiency (Rounded Progress UI)
+### 💻 Language Proficiency
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+<div align="center">
 
-<!-- JavaScript -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/F7DF1E?text=JS" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">JavaScript</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 95%; height: 100%; background: #F7DF1E; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">95%</div>
-</div>
-
-<!-- TypeScript -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/3178C6?text=TS" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">TypeScript</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 90%; height: 100%; background: #3178C6; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">90%</div>
-</div>
-
-<!-- React -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/61DAFB?text=⚛️" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">React</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 92%; height: 100%; background: #61DAFB; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">92%</div>
-</div>
-
-<!-- Next.js -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/000000?text=Next" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">Next.js</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 90%; height: 100%; background: #000000; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">90%</div>
-</div>
-
-<!-- Node.js -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/339933?text=Node" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">Node.js</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 85%; height: 100%; background: #339933; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">85%</div>
-</div>
-
-<!-- Tailwind -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/38B2AC?text=TW" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">Tailwind CSS</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 92%; height: 100%; background: #38B2AC; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">92%</div>
-</div>
-
-<!-- MySQL -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/4479A1?text=SQL" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">MySQL</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 82%; height: 100%; background: #4479A1; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">82%</div>
-</div>
-
-<!-- MongoDB -->
-<div style="text-align: center;">
-  <img src="https://via.placeholder.com/100/FFFFFF/47A248?text=Mongo" width="100" height="100" style="border-radius: 50%;" />
-  <div style="margin-top: 10px; font-weight: bold;">MongoDB</div>
-  <div style="width: 100px; height: 10px; background: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-    <div style="width: 88%; height: 100%; background: #47A248; border-radius: 5px;"></div>
-  </div>
-  <div style="font-size: 12px;">88%</div>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-92%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-90%25-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-92%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-82%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-88%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
-### 📈 Development Time Tracking
+### 🔥 Contribution Activity
 
-**WakaTime Stats:**
-[![wakatime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@1be6b642-1a9e-4f43-8350-58bc10bf642c)
+<div align="center">
+
+[![Rakib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakibkhanofficial&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/rakibkhanofficial)
+
+</div>
 
 ### 🏆 GitHub Achievements
 
