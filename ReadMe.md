@@ -20,7 +20,7 @@
 
 ```typescript
 const rakibKhan = {
-  role: "Software Engineer @ Akij Venture Ltd",
+  role: "Software Engineer @ ACI Limited, Ex Akij Venture Ltd",
   experience: "3+ Years",
   location: "Dhaka, Bangladesh",
   code: ["TypeScript", "JavaScript", "Dart"],
